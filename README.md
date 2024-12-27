@@ -1,6 +1,6 @@
 # Bienvenido al Github de Josue Siles Ticona
 
-i[banner](Banner.png)
+![banner](Banner.png)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josu%C3%A9-siles-ticona-1303b4301/)
 
